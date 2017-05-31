@@ -1,0 +1,42 @@
+.content {
+  width: 1190px;
+  margin: 0 auto;
+  border: 1px solid #f00;
+}
+
+#header {
+  width: 100%;
+  height: 35px;
+  line-height: 35px;
+}
+
+#header p {
+  display: inline-block;
+}
+
+#header p a {
+  display: inline-block;
+  width: 60px;
+  height: 12px;
+  color: #6c6c6c;
+  padding: 0 3.5px;
+  font-size: 12px;
+}
+
+#header p a img {
+  position: relative;
+}
+
+#header p a .shoppingcart {
+  top: 12px;
+  margin-right: 6px;
+}
+
+#header p a .collection {
+  top: 6px;
+  margin-right: 2px;
+}
+
+.hello_login {
+  color: #f22e00!important;
+}

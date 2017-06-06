@@ -332,3 +332,12 @@ hr {
   height: 206px;
   background: url('../images/tmall_ad_right_bg.gif');
 }
+
+.tmall_login {
+  position:absolute;
+  top: 10px;
+  left: 901px;
+  width: 292px;
+  height: 512px;
+  border: 1px solid #ccc;
+}

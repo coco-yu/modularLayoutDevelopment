@@ -338,6 +338,102 @@ hr {
   top: 10px;
   left: 901px;
   width: 292px;
-  height: 512px;
-  border: 1px solid #ccc;
+  height: 514px;
+  text-align: center;
+  background-image: url('../images/login_bg.gif');
+}
+
+.login_img {
+  width: 56px;
+  height: 56px;
+  margin: 17px auto 10px;
+  background-image: url('../images/login_title.gif');
+}
+
+.tmall_login p {
+  width: 100%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+/*.tmall_login p img {
+}*/
+
+.tmall_login p .middle_char, span {
+  color: #ff4400;
+  margin: 0 5px;
+  vertical-align: middle;
+}
+
+.tmall_login p .middle_char {
+  color: #000;
+}
+
+.tmall_login button {
+  margin: 0 3.5px;
+}
+
+.tmall_login .login_btn {
+  width: 93px;
+  height: 25px;
+  color: #fff;
+  border: 0;
+  background-color: #ff5701;
+}
+
+.tmall_login .register_btn, .open_shop_btn {
+  width: 76px;
+  height: 26px;
+  color: #fff;
+  border: 0;
+  background-color: #ff5701;
+}
+
+.tmall_login .line {
+  width: 100%;
+  height: 3px;
+  margin-top: 22px;
+  background-color: #f1f1f1;
+}
+
+.tb_rules {
+  margin-bottom: 10px;
+}
+
+.tb_rules li {
+  display: inline-block;
+  width: 40px;
+  height: 26px;
+  line-height: 26px;
+  /*border: 1px solid #ccc;*/
+}
+
+.tb_rules .active {
+  border-bottom: 2px solid #ff4400;
+}
+
+.tmall_login .login_ad {
+  line-height: 28px;
+  color: #ff4400;
+}
+
+.tmall_login .disanfang {
+  width: 100%;
+  height: 214px;
+  background-color: #f1f1f1;
+}
+
+.tmall_login .disanfang .disanfang_item {
+  display: inline-block;
+  width: 70px;
+  height: 60px;
+  padding-top: 8px;
+  margin-bottom: 3px;
+  text-align: center;
+  /*border: 1px solid #f00;*/
+  background-color: #fff;
+}
+
+.tmall_login .disanfang .disanfang_item p {
+  line-height: 28px;
 }

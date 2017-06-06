@@ -19,6 +19,7 @@ textarea,
 th,
 td,
 hr,
+div,
 select {
     padding: 0;
     margin: 0;

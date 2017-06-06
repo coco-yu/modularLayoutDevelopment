@@ -12,11 +12,13 @@ dl,
 dd,
 ul,
 ol,
+img,
 form,
 input,
 textarea,
 th,
 td,
+hr,
 select {
     padding: 0;
     margin: 0;

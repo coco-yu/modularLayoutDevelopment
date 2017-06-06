@@ -15,3 +15,30 @@
 .fr {
   float: right;
 }
+
+.ml {
+  margin-left: 11px;
+}
+
+.mr {
+  margin-right: 8px;
+}
+
+.search_bar .species .active {
+  color: #fff;
+  background-color: #ff5400;
+}
+
+.search_bar .history_record .active_record {
+  color: #ff5400;
+}
+
+.vtm {
+  vertical-align: bottom;
+}
+
+.business_side .active {
+  color: #fff;
+  background-color: #ff5400;
+  border-radius: 30%;
+}

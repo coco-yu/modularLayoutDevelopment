@@ -41,4 +41,9 @@
 12. 去掉input聚焦时的蓝色边框 outline:none;
 
 13. box-shadow:
-    text-shadow
+    text-shadow  文字阴影
+
+14. css绘制三角形 transparent 透明度
+    ie6下将transparent改为#fff;
+
+

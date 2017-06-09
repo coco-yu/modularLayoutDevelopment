@@ -46,4 +46,13 @@
 14. css绘制三角形 transparent 透明度
     ie6下将transparent改为#fff;
 
+15. <sup></sup>    上标
+    <sub></sub>    下标
 
+16. chrome font-size最小像素是12px;
+
+17. 独立模块在写样式的时候， 样式不依靠任何父级class或id
+
+18. 任何元素float会生成一个块级元素
+
+19. display: none; 使得元素脱离文档流
